@@ -1,4 +1,5 @@
 /workspaces/java21-modern-showcase/src/main/java/com/icemelid/java21/virtualthreads/CarrierThreadsInspector.java
 /workspaces/java21-modern-showcase/src/main/java/com/icemelid/java21/virtualthreads/MemoryLimitComparison.java
 /workspaces/java21-modern-showcase/src/main/java/com/icemelid/java21/virtualthreads/MicroserviceAggregatorDemo.java
+/workspaces/java21-modern-showcase/src/main/java/com/icemelid/java21/virtualthreads/PinningTrapDemo.java
 /workspaces/java21-modern-showcase/src/main/java/com/icemelid/java21/virtualthreads/VirtualThreadsDemo.java

@@ -2,4 +2,5 @@ com/icemelid/java21/virtualthreads/MemoryLimitComparison.class
 com/icemelid/java21/virtualthreads/CarrierThreadsInspector.class
 com/icemelid/java21/virtualthreads/VirtualThreadsDemo.class
 com/icemelid/java21/virtualthreads/MicroserviceAggregatorDemo.class
+com/icemelid/java21/virtualthreads/PinningTrapDemo.class
 com/icemelid/java21/virtualthreads/MicroserviceAggregatorDemo$DashboardUsuarioDTO.class
